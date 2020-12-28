@@ -22,7 +22,7 @@
 > 
 > >就我自己项目中的使用情况而言，一个月有效期。
 
-## 使用用法
+## 使用用法z
 * 点击右上角 `Fork` 项目；
 * `Settings` -> `Secrets` 中添加京东Cookie、Server酱SCKEY；
 	- `JD_COOKIE`：账号1Cookie
